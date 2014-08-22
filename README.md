@@ -12,7 +12,7 @@ layer |count(code)| name
 2     | 345       | 市
 3     | 2856      | 县/区
 4     | 43854     | 乡/镇/街道
-5     | 694688    | 村/街道/居委会
+5     | 694688    | 村/居委会
 
 ## 可视化
 Demo：[http://phyng.com/scrapy-stats/](http://phyng.com/scrapy-stats/)
